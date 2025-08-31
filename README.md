@@ -4,7 +4,7 @@
     <th></th>
     <th align="right">
       <!-- Clickable logo on the right -->
-      <a href="https://cipher0x0000.github.io/ciphers-notebook/">
+      <a href="https://hackmd.io/@cipher">
         <img src="https://ipfs-cipher.quicknode-ipfs.com/ipfs/QmenG8e6wB15kDKJn6peiF1K6T5mPWosAFXz2ZpwdbTw55" width="200" alt="logo"/>
       </a>
     </th>
